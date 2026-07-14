@@ -30,8 +30,7 @@
 
 ## Main Projects
 
-🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people  
-🗣️ [echospeak](https://discord.gg/Z3u9Ms4JTg) (closed source) – EchoSpeak is a local-first, voice first agentic AI assistant designed for agnetic tools and chatting.
+🗣️ [echospeak](https://discord.gg/Z3u9Ms4JTg) (closed source) – Agentic AI assistant.
 
 ## Projects
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)

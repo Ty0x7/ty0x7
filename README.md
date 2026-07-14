@@ -30,7 +30,7 @@
 
 ## Main Projects
 
-🗣️ [echospeak](https://discord.gg/Z3u9Ms4JTg) (closed source) – Agentic AI assistant.
+🗣️ [echospeak](https://github.com/Ty0x7/EchoSpeak) (closed source) – Agentic AI assistant.
 
 ## Projects
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)

@@ -2,30 +2,20 @@
 
 > My projects · Managing Agentic AI to Automate Workflows & Coding.
 
- <p align="left">
-
+<p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-
   <img src="https://img.shields.io/badge/-Web-0A66C2?style=flat&logo=googlechrome&logoColor=white" />
-
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
-
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000" />
-
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-
   <img src="https://img.shields.io/badge/-CLI-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-
   <img src="https://img.shields.io/badge/-Claude-111111?style=flat&logo=anthropic&logoColor=white" />
-
   <img src="https://img.shields.io/badge/-ChatGPT-000000?style=flat&logo=openai&logoColor=white" />
-
 </p>
-
 
 
 ## Main Projects

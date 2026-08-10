@@ -26,7 +26,6 @@
   - 🎯 [slopshooter](https://www.google.com/search?q=https://github.com/ty0x7/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App
   - 📅 [weekly](https://www.google.com/search?q=https://github.com/ty0x7/weekly) – AI Music.
   - 🧠 [knowself](https://www.google.com/search?q=https://github.com/ty0x7/KnowSelf) – Psychometric assessments and AI-driven conversation.
-  - 🗣️ [echospeak](https://github.com/Ty0x7/EchoSpeak) (closed source) – Agentic AI assistant.
   - 🔮 [auravote.com](https://auravote.com) (closed source) – Voting platform for ranking the "Aura" of people  
 
 

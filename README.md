@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/-ChatGPT-000000?style=flat&logo=openai&logoColor=white" />
 </p>
 
-
-## Main Projects
-  - 🔮 [auravote.com](https://auravote.com) (closed source) – Voting platform for ranking the "Aura" of people  
-
 ## Projects
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)
   - 🧼 [cleanboard](https://www.google.com/search?q=https://github.com/ty0x7/cleanboard) –  Open-source utility that temporarily disables all keyboard input, allowing you to clean your keyboard
@@ -31,6 +27,8 @@
   - 📅 [weekly](https://www.google.com/search?q=https://github.com/ty0x7/weekly) – AI Music.
   - 🧠 [knowself](https://www.google.com/search?q=https://github.com/ty0x7/KnowSelf) – Psychometric assessments and AI-driven conversation.
   - 🗣️ [echospeak](https://github.com/Ty0x7/EchoSpeak) (closed source) – Agentic AI assistant.
+  - 🔮 [auravote.com](https://auravote.com) (closed source) – Voting platform for ranking the "Aura" of people  
+
 
 
 ## Connect

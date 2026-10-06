@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-CLI-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-111111?style=flat&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ChatGPT-000000?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ## Projects

@@ -19,12 +19,12 @@
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)
   - 🧼 [cleanboard](https://www.google.com/search?q=https://github.com/ty0x7/cleanboard) –  Open-source utility that temporarily disables all keyboard input, allowing you to clean your keyboard
   - 🤖 [copybot](https://www.google.com/search?q=https://github.com/ty0x7/copybot) – Dual toolkit for Polymarket users who want to leverage on-chain transparency for prediction-market trading
-  - 🚫 [nosignal](https://www.google.com/search?q=https://github.com/ty0x7/nosignal) – Privacy-first, monitoring tool
+  - 🚫 [nosignal](https://www.google.com/search?q=https://github.com/ty0x7/nosignal) – Monitoring tool
   - 💬 [simulchat](https://www.google.com/search?q=https://github.com/ty0x7/simulchat) – Simulate chat Twitch chat conversations for testing & fun
-  - 🎯 [slopshooter](https://www.google.com/search?q=https://github.com/ty0x7/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App
+  - 🎯 [slopshooter](https://www.google.com/search?q=https://github.com/ty0x7/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App (First AI Game)
   - 🧠 [knowself](https://www.google.com/search?q=https://github.com/ty0x7/KnowSelf) – Psychometric assessments and AI-driven conversation.
-  - 🔮 [auravote.com](https://github.com/Ty0x7/AuraVote)  – Voting platform for ranking the "Aura" of people
-- 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI Assistant is an autonomous AI system that receives a high-level goal and executes complete workflows
+  - 🔮 [auravote.com](https://github.com/Ty0x7/AuraVote)  – Algorithmic Ranking "Aura" of people
+- 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI Harness
 
 
 

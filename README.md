@@ -23,7 +23,7 @@
   - 💬 [simulchat](https://www.google.com/search?q=https://github.com/ty0x7/simulchat) – Simulate chat Twitch chat conversations for testing & fun
   - 🎯 [slopshooter](https://www.google.com/search?q=https://github.com/ty0x7/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App (First AI Game)
   - 🧠 [knowself](https://www.google.com/search?q=https://github.com/ty0x7/KnowSelf) – Psychometric assessments and AI-driven conversation.
-  - 🔮 [aura](https://github.com/Ty0x7/AuraVote)  – Algorithmic Ranking "Aura" of people
+  - 🔮 [auravote](https://github.com/Ty0x7/AuraVote)  – Algorithmic Ranking "Aura" of people
 - 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI Harness
 
 

@@ -35,8 +35,4 @@
 ## Connect
 
   - 🐦 X / Twitter: [@ty0x7](https://www.google.com/search?q=https://x.com/ty0x7)
-  - 🌐 Blog: [ty0x7.website](https://www.google.com/search?q=https://ty0x7.website)
-
-## Current Mood
-
-> "Agentic AI"
+  - 🌐 Blog: [ty0x7.website](https://www.google.com/search?q=https://mem0.website)

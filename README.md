@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/-Claude-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
+## Main Projects
+- 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI Harness
+
+
 ## Projects
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)
   - 🧼 [cleanboard](https://www.google.com/search?q=https://github.com/ty0x7/cleanboard) –  Open-source utility that temporarily disables all keyboard input, allowing you to clean your keyboard
@@ -23,7 +27,6 @@
   - 🎯 [slopshooter](https://www.google.com/search?q=https://github.com/ty0x7/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App (First AI Game)
   - 🧠 [knowself](https://www.google.com/search?q=https://github.com/ty0x7/KnowSelf) – Psychometric assessments and AI-driven conversation.
   - 🎥 [termfx](https://github.com/Ty0x7/TermFX) – Terminal Visualizer
-- 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI Harness
 - ⛏️ [echomc](https://github.com/Ty0x7/EchoMC) – Bring EchoSpeak into Minecraft!
 
 

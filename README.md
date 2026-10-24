@@ -21,7 +21,7 @@
 
 ## Projects
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)
-  - 🧼 [cleanboard](https://www.google.com/search?q=https://github.com/ty0x7/cleanboard) –  Open-source utility that temporarily disables all keyboard input, allowing you to clean your keyboard
+  - 🧼 [cleanboard](https://www.google.com/search?q=https://github.com/ty0x7/cleanboard) –  Utility that temporarily disables all keyboard input, allowing you to clean your keyboard
   - 💸 [copybot](https://www.google.com/search?q=https://github.com/ty0x7/copybot) – Polymarket users who want to leverage on-chain transparency for prediction-market trading
   - 💬 [simulchat](https://www.google.com/search?q=https://github.com/ty0x7/simulchat) – Simulate chat Twitch chat conversations for testing & fun
   - 🎯 [slopshooter](https://www.google.com/search?q=https://github.com/ty0x7/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App (First AI Game)

@@ -26,8 +26,10 @@
   - 💬 [simulchat](https://www.google.com/search?q=https://github.com/ty0x7/simulchat) – Simulate chat Twitch chat conversations for testing & fun
   - 🎯 [slopshooter](https://www.google.com/search?q=https://github.com/ty0x7/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App (First AI Game)
   - 🧠 [knowself](https://www.google.com/search?q=https://github.com/ty0x7/KnowSelf) – Psychometric assessments and AI-driven conversation.
-  - 🎥 [termfx](https://github.com/Ty0x7/TermFX) – Terminal Visualizer
-- ⛏️ [echomc](https://github.com/Ty0x7/EchoMC) – Bring EchoSpeak into Minecraft!
+  - 🎥 [termfx](https://github.com/Ty0x7/TermFX) – Terminal visualizer for video editing and visualizations.
+- ⛏️ [echomc](https://github.com/Ty0x7/EchoMC) – Bring echoSpeak into minecraft!
+- 💬 [chathub](https://github.com/Ty0x7/ChatHub) – A single desktop environment that shows your livestream chats.
+
 
 
 

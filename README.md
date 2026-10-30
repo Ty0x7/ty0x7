@@ -3,21 +3,14 @@
 > My projects · Managing Agentic AI to Automate Workflows & Coding.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web-0A66C2?style=flat&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000" />
   <img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CLI-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
 ## Main Projects
-- 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI Harness
-
+- 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI environment
+- 👤 [Humanity](#) – A sandbox civilization video game where AI agents think, talk, and make strategic decisions using LLM and Jev architectures.
 
 ## Projects
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)
@@ -31,12 +24,8 @@
 - 💬 [chathub](https://github.com/Ty0x7/ChatHub) – A single desktop environment that shows your livestream chats.
 - Ⓜ️ [myflix](https://github.com/Ty0x7/MyFlix) – Turns your personal movie collection into your own Netflix.
 
-
-
-
-
-
 ## Connect
 
   - 🐦 X / Twitter: [@ty0x7](https://www.google.com/search?q=https://x.com/ty0x7)
+  - 🔴 Twitch:  [@ty0x7](https://www.twitch.tv/ty0x7)
   - 🌐 Blog: [ty0x7.website](https://www.google.com/search?q=https://mem0.website)

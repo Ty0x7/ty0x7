@@ -12,7 +12,7 @@
 
 ## Main Projects
 - 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI environment
-- 👤 [Humanity](#) – Sandbox civilization video game where AI agents think, talk, and make strategic decisions using LLM and Jev architectures.
+- 👤 [Humanity](#) – Sandbox civilization video game where AI agents make strategic decisions using LLM and Jev architectures.
 
 ## Projects
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)

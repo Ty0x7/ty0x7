@@ -29,6 +29,8 @@
   - 🎥 [termfx](https://github.com/Ty0x7/TermFX) – Terminal visualizer for video editing and visualizations.
 - ⛏️ [echomc](https://github.com/Ty0x7/EchoMC) – Bring echoSpeak into minecraft!
 - 💬 [chathub](https://github.com/Ty0x7/ChatHub) – A single desktop environment that shows your livestream chats.
+- 💬 [myflix](https://github.com/Ty0x7/MyFlix) – Turns your personal movie collection into your own Netflix.
+
 
 
 

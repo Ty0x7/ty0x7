@@ -29,6 +29,6 @@
 
 ## Connect
 
-  - 🐦 X / Twitter: [@ty0x7](https://www.google.com/search?q=https://x.com/ty0x7)
-  - 🔴 Twitch:  [@ty0x7](https://www.twitch.tv/ty0x7)
-  - 🌐 Blog: [ty0x7.website](https://www.google.com/search?q=https://mem0.website)
+  - 🐦 X / Twitter: [@ty0x7](https://x.com/ty0x7)
+  - 🔴 Twitch:  [@ty0x7](twitch.tv/ty0x7)
+  - 🌐 Blog: [ty0x7.website](https://mem0.website)

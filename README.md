@@ -3,14 +3,14 @@
 > My projects · Managing Agentic AI to Automate Workflows & Coding.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
 ## Main Projects
 - 🤖 [echospeak](https://github.com/Ty0x7/EchoSpeak) – Agentic AI environment
-- 👤 [Humanity](#) – A sandbox civilization video game where AI agents think, talk, and make strategic decisions using LLM and Jev architectures.
+- 👤 [Humanity](#) – Sandbox civilization video game where AI agents think, talk, and make strategic decisions using LLM and Jev architectures.
 
 ## Projects
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)

@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-macOS-111111?style=flat&logo=macos&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-111111?style=flat&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Codex-111111?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ChatGPT-111111?style=flat&logo=chatgpt&logoColor=white" />
 
 </p>
 

@@ -23,11 +23,11 @@
   - 📂 Repo: [ty0x7](https://www.google.com/search?q=https://github.com/ty0x7%3Ftab%3Drepositories)
   - 🧼 [cleanboard](https://www.google.com/search?q=https://github.com/ty0x7/cleanboard) –  Utility that temporarily disables all keyboard input, allowing you to clean your keyboard
   - 💸 [copybot](https://www.google.com/search?q=https://github.com/ty0x7/copybot) – Polymarket users who want to leverage on-chain transparency for prediction-market trading
-  - 💬 [simulchat](https://www.google.com/search?q=https://github.com/ty0x7/simulchat) – Simulate chat Twitch chat conversations for testing & fun
+  - 💬 [simulchat](https://www.google.com/search?q=https://github.com/ty0x7/simulchat) – Simulate Twitch chat
   - 🎯 [slopshooter](https://www.google.com/search?q=https://github.com/ty0x7/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App (First AI Game)
   - 🧠 [knowself](https://www.google.com/search?q=https://github.com/ty0x7/KnowSelf) – Psychometric assessments and AI-driven conversation.
-  - 🎥 [termfx](https://github.com/Ty0x7/TermFX) – Terminal visualizer for video editing and visualizations.
-- ⛏️ [echomc](https://github.com/Ty0x7/EchoMC) – Bring echoSpeak into minecraft!
+  - 🎥 [termfx](https://github.com/Ty0x7/TermFX) – Terminal visualizer for visualizations.
+- ⛏️ [echomc](https://github.com/Ty0x7/EchoMC) – Bring echospeak into minecraft!
 - 💬 [chathub](https://github.com/Ty0x7/ChatHub) – A single desktop environment that shows your livestream chats.
 - Ⓜ️ [myflix](https://github.com/Ty0x7/MyFlix) – Turns your personal movie collection into your own Netflix.
 

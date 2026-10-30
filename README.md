@@ -3,7 +3,7 @@
 > My projects · Managing Agentic AI to Automate Workflows & Coding.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000" />
   <img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>

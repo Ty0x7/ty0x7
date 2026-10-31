@@ -32,3 +32,4 @@
   - 🐦 X / Twitter: [@ty0x7](https://x.com/ty0x7)
   - 🔴 Twitch:  [@ty0x7](twitch.tv/ty0x7)
   - 🌐 Blog: [ty0x7.website](https://mem0.website)
+  - 💰 Support: [ty0x7](https://ko-fi.com/ty0x7)
